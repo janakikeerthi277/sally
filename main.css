@@ -1,9 +1,3 @@
-.fontfun{
-	font-family: fantasy;
-	font-size:20px;
-	
-}
-.color{
-	background-color: grey;
-	padding-left: 50px;
+body{
+	background-color: red;
 }
