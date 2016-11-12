@@ -1,4 +1,9 @@
 .fontfun{
 	font-family: fantasy;
-	padding: 50px;
+	font-size:20px;
+	
+}
+.color{
+	background-color: grey;
+	padding-left: 50px;
 }
